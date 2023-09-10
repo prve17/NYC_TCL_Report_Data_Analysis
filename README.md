@@ -5,7 +5,10 @@
 The aim of this analysis is to find some insights in NYC Taxi and Limousine Commission Report Data using various tools and technologies, including Python, Jupyter Notebook, GCP Cloud Storage, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
-<img src="">
+<img src="https://github.com/prve17/NYC_TCL_Report_Data_Analysis/blob/master/Architecture.png">
+
+## ETL Tree
+<img src="https://github.com/prve17/NYC_TCL_Report_Data_Analysis/blob/master/ETL_Mage_Tree.png">
 
 ## Technology Used
 - Programming Language - Python
@@ -29,7 +32,7 @@ More info about dataset can be found here:
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-<img src="">
+<img src="https://github.com/prve17/NYC_TCL_Report_Data_Analysis/blob/master/Project_Model_Lucid.png">
 
 ## How Looker Studio Dashboard looks like
 [Click here](https://lookerstudio.google.com/reporting/5ed6be28-dc96-40f3-938b-6a72b0ac4911)
