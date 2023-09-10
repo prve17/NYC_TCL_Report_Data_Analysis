@@ -19,7 +19,7 @@ Google Cloud Platform
 3. BigQuery
 4. Looker Studio
 
-Modern Data Pipeine Tool - https://www.mage.ai/
+Modern Data Pipeine Tool - [https://www.mage.ai/](https://www.mage.ai/)
 
 ## Dataset Used
 NYC TLC Trip Record Data
@@ -33,4 +33,4 @@ More info about dataset can be found here:
 <img src="https://github.com/prve17/NYC_TCL_Report_Data_Analysis/blob/master/Project_Model_Lucid.png">
 
 ## How Looker Studio Dashboard looks like
-[Click here](https://lookerstudio.google.com/reporting/5ed6be28-dc96-40f3-938b-6a72b0ac4911)
+[Click here]([https://lookerstudio.google.com/reporting/5ed6be28-dc96-40f3-938b-6a72b0ac4911](https://github.com/prve17/NYC_TCL_Report_Data_Analysis/blob/master/Looker_Dashboard.pdf)https://github.com/prve17/NYC_TCL_Report_Data_Analysis/blob/master/Looker_Dashboard.pdf)
